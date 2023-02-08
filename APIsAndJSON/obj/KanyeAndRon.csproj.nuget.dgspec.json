@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zoeyb\\source\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\APIsAndJSON.csproj": {}
+    "C:\\Users\\zoeyb\\source\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\KanyeAndRon.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zoeyb\\source\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\APIsAndJSON.csproj": {
+    "C:\\Users\\zoeyb\\source\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\KanyeAndRon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zoeyb\\source\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\APIsAndJSON.csproj",
-        "projectName": "APIsAndJSON",
-        "projectPath": "C:\\Users\\zoeyb\\source\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\APIsAndJSON.csproj",
+        "projectUniqueName": "C:\\Users\\zoeyb\\source\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\KanyeAndRon.csproj",
+        "projectName": "KanyeAndRon",
+        "projectPath": "C:\\Users\\zoeyb\\source\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\KanyeAndRon.csproj",
         "packagesPath": "C:\\Users\\zoeyb\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\zoeyb\\source\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\obj\\",
         "projectStyle": "PackageReference",
